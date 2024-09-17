@@ -1,8 +1,8 @@
 # Service Reliability Demo
 ---
 This project has following feature:
--Feature 1
--Feature 2
--Feature 3
+- 1.Feature 1
+  2.Feature 2
+  3.Feature 3
 ---
 &copy;-Shivani Agrawal, mthree 2024
